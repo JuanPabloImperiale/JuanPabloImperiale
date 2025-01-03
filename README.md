@@ -2,7 +2,7 @@
 
 ### 🚀 Web Developer | Technical Leader | PMO Enthusiast
 
-Hello! I’m **Juan Pablo Imperial**, passionate about building robust and scalable technological solutions. With **8+ years of experience**, I have led development teams, designed software architectures, and optimized processes for multinational companies. My focus lies in writing clean, reusable, and efficient code while managing projects with excellence.
+Hello! I’m **Juan Pablo Imperial**, passionate about building robust and scalable technological solutions. With **9+ years of experience**, I have led development teams, designed software architectures, and optimized processes for multinational companies. My focus lies in writing clean, reusable, and efficient code while managing projects with excellence.
 
 ---
 
@@ -90,6 +90,7 @@ Hello! I’m **Juan Pablo Imperial**, passionate about building robust and scala
 
 ## 🤝 Collaborations
 ### 🚧 Highlighted Projects
+- **[NRC Health](#):** FullStack Software Engineer.
 - **[Grant Thornton](#):** Led Frontend development and process optimization for large-scale enterprise applications.
 - **[Oxxo](#):** Implemented an administrative portal for real-time monitoring and data processing.
 - **[Ternium & Tenaris Tamsa](#):** Full Stack development of internal portals.
