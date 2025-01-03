@@ -90,11 +90,11 @@ Hello! I’m **Juan Pablo Imperial**, passionate about building robust and scala
 
 ## 🤝 Collaborations
 ### 🚧 Highlighted Projects
-- **[NRC Health](#):** FullStack Software Engineer.
+- **[NRC Health](#):** FullStack Software Engineer, Design, develop, and deploy scalable, secure, and efficient  enterprise applications.
 - **[Grant Thornton](#):** Led Frontend development and process optimization for large-scale enterprise applications.
 - **[Oxxo](#):** Implemented an administrative portal for real-time monitoring and data processing.
 - **[Ternium & Tenaris Tamsa](#):** Full Stack development of internal portals.
-- **[Inworx](#):** QA Manual annd automatic testing.
+- **[Inworx](#):** QA Manual and automatic testing.
 
 ---
 
